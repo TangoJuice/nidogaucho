@@ -1,5 +1,6 @@
 :root {
-    --main-bg-color: #00001d;
+    /* --main-bg-color: #00001d; */
+    --main-bg-color: red;
     --principle-color: #546e7a;
 }
 * {
